@@ -16,7 +16,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/BlackTiger-Error404/Shahg.git
+git clone https://github.com/marifulbd/facebook
 
 cd Shahg
 
